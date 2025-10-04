@@ -39,5 +39,7 @@
     <img src="https://img.shields.io/badge/farmerdragon-bluelight?style=for-the-badge&logo=Kick&logoColor=white" alt="Discord"/>
   </a>
 
-<a href="https://letronx1984.github.io/Portfolio/"></a>
+<a href="https://letronx1984.github.io/Portfolio/">
+<img src="https://img.shields.io/badge/Portafolio-white" alt="Portafolio"/>
+</a>
 </p>
