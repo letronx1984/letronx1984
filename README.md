@@ -38,4 +38,6 @@
   <a href="https://kick.com/farmerdragon">
     <img src="https://img.shields.io/badge/farmerdragon-bluelight?style=for-the-badge&logo=Kick&logoColor=white" alt="Discord"/>
   </a>
+
+<a href="https://letronx1984.github.io/Portfolio/"></a>
 </p>
