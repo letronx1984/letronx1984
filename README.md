@@ -23,10 +23,6 @@
   </a>
 
 
-  <!-- LinkedIn -->
-  <a href="https://www.linkedin.com/in/juan-carlos-gorriti-palacios/">
-    <img src="https://img.shields.io/badge/Juan_Carlos_Gorriti-blue?style=for-the-badge&logo=Linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
 
   <!-- Gmail -->
   <a href="mailto:jcgpalacios1@gmail.com">
